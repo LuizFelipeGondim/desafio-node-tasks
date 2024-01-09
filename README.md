@@ -61,3 +61,6 @@ Rotas:
 
 - Validar se as propriedades `title` e `description` das rotas `POST` e `PUT` estão presentes no `body` da requisição.
 - Nas rotas que recebem o `/:id`, além de validar se o `id` existe no banco de dados, retornar a requisição com uma mensagem informando que o registro não existe.
+
+---
+Projeto desenvolvido no curso de Node.js da [Rocketseat](https://rocketseat.com.br).
